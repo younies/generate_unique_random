@@ -4,7 +4,7 @@ import random
 
 randList = []
 
-maxnumber = 8616864326 - 10
+maxnumber = 8614823636 - 10
 
 whatweneed = 10000000
 
