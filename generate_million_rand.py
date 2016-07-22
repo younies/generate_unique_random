@@ -6,7 +6,7 @@ randList = []
 
 maxnumber = 8614823636 - 10
 
-whatweneed = 10000000
+whatweneed = 1000000
 
 randList = [0] * (whatweneed * 4)
 for i in range(whatweneed * 4):
