@@ -25,7 +25,7 @@ random.shuffle(uniqueRandList)
 
 uniqueRandList = uniqueRandList[:whatweneed]
 
-sorted(uniqueRandList)
+uniqueRandList = sorted(uniqueRandList)
 
 for num in uniqueRandList:
 	print num 
